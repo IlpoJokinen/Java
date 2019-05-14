@@ -1,0 +1,44 @@
+@charset "utf-8";
+body {
+	background-image: url("C:/Users/Ilpo/Pictures/kansikuva_treeni.jpg");
+	background-size:cover;
+}
+p {
+	color:#dedede;
+}
+h1 {
+	text-align:center;
+	color:#ff5555;
+}
+h3 {
+	text-align:center;
+	color:#ff5555;
+}
+#taulukot {
+	width:90%;
+	margin:auto;
+}
+.tulos {
+	float:left;
+	width:23%;
+}
+#rinta {
+	border-style: double;
+  	border-width: thick;
+	border-color:#FF9600;
+}
+#jalat {
+	border-style: double;
+  	border-width: thick;
+	border-color:#FF9600;
+}
+#kadet {
+	border-style: double;
+  	border-width: thick;
+	border-color:#FF9600;
+}
+#selka {
+	border-style: double;
+  	border-width: thick;
+	border-color:#FF9600;
+}
